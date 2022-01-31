@@ -1,4 +1,12 @@
+.body {
+  min-height: 2000px;
+}
+
 .jumbotron {
-  background-color: #d3eca7;
-  padding-top: 2rem;
+  padding-top: 3rem;
+  background-color: white;
+}
+
+.container {
+  max-width: 1400px;
 }
