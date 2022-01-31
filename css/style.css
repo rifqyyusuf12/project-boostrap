@@ -3,12 +3,14 @@
 }
 
 .jumbotron {
-  padding-top: 12rem;
+  padding: 9rem 0rem;
   background-color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #about {
-  margin-top: 10rem;
 }
 
 #container {
